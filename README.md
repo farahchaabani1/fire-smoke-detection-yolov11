@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/dc797d38-78a9-4360-be8c-ee723394a50a
+
+
 # 🔥 Fire & Smoke Detection Using YOLOv11s
 
 AI-powered fire and smoke detection.
@@ -41,7 +45,8 @@ The YOLOv11s model was trained and evaluated using Roboflow.
 
 **Roboflow Model:** 
 
-https://github.com/user-attachments/assets/302db264-c6f5-4966-b5f4-1b87ea547298
+https://github.com/user-attachments/assets/ad52f16a-2db5-403c-826a-42b773ebf6c6
+
 
 ## 5. Detection Results
 
