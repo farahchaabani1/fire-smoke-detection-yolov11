@@ -37,11 +37,9 @@ ESP32-S3 AI CAM → Python → Roboflow API → Detection Results → Email Aler
 ![Model Metrics](images/roboflow_metrics.png)
 
 ### Trained Model
+The YOLOv11s model was trained and evaluated using Roboflow.
 
-**Model:** YOLOv11s  
-**Version:** 5
-
-[View Trained Model on Roboflow](https://app.roboflow.com/farah-mvp9a/fire-smoke-detection-kg5hm/models)
+**Roboflow Model:** [View Trained Model on Roboflow](https://app.roboflow.com/farah-mvp9a/fire-smoke-detection-kg5hm/models)
 
 ## 5. Detection Results
 
