@@ -1,3 +1,1 @@
 roboflow
-opencv-python
-numpy
