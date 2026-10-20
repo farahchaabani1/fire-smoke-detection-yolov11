@@ -41,6 +41,16 @@ The YOLOv11s model was trained and evaluated using Roboflow.
 
 **Roboflow Model:** [View Trained Model on Roboflow](https://app.roboflow.com/farah-mvp9a/fire-smoke-detection-kg5hm/models)
 
+## Project Demonstration
+
+Watch the complete fire and smoke detection system in action.
+
+[▶ Watch Demo Video](demo.mp4)
+
+https://github.com/user-attachments/assets/302db264-c6f5-4966-b5f4-1b87ea547298
+
+
+
 ## 5. Detection Results
 
 ### Fire Detection
