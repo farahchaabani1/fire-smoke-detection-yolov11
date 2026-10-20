@@ -1,8 +1,3 @@
-
-
-https://github.com/user-attachments/assets/dc797d38-78a9-4360-be8c-ee723394a50a
-
-
 # 🔥 Fire & Smoke Detection Using YOLOv11s
 
 AI-powered fire and smoke detection.
